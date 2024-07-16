@@ -2,10 +2,8 @@
 
 ## Output
 
-![image](https://github.com/SarankumarJ/CSS-Basic-Project/assets/94778101/edc21ee2-5c03-4f4d-b42f-0da0be992118)
+![image](https://github.com/user-attachments/assets/9e937b09-1490-4ffc-9a85-3cec3ad7ade5)
+![image](https://github.com/user-attachments/assets/d9fd51e7-c6ca-4d9d-842e-6929bbbcbc33)
+![image](https://github.com/user-attachments/assets/3c190e6b-931b-47ed-9a2b-5c999fd63569)
+![image](https://github.com/user-attachments/assets/b817ba24-471e-4010-8fd5-2d98e3bdcb7f)
 
-![image](https://github.com/SarankumarJ/CSS-Basic-Project/assets/94778101/8a625ec3-2cfb-466b-812c-ec6d789a8562)
-
-![image](https://github.com/SarankumarJ/CSS-Basic-Project/assets/94778101/fad385d1-92ed-46d5-8bd2-cb53c3aa029a)
-
-![image](https://github.com/SarankumarJ/CSS-Basic-Project/assets/94778101/c268ab86-f5dd-461d-bcd7-20ba0e82267a)
